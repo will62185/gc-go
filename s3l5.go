@@ -15,6 +15,7 @@ var y = 43
 // DECLARE there is a VARIABLE with the IDENTIFIER "z"
 // and that the VARIABLE with the IDENTIFIER "z" is of TYPE int
 // ASSIGNS the ZERO VALUE of TYPE int to "z"
+// There are default values when they aren't assigned.
 var z int
 
 func main() {
