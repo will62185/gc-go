@@ -19,7 +19,6 @@ func main() {
 	fmt.Printf("%T\n", y)
 }
 
-
 /*
 // Messing with runtime package
 func main(){
